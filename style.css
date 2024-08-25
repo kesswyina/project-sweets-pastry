@@ -1,0 +1,55 @@
+body {
+    font-family: sans-serif;
+    background-color: #F2E9E9;
+}
+
+nav{
+    background-color: #EAB1B1;
+    padding: 30px;
+
+}
+nav a {
+    text-decoration: none;
+    color: black;
+    background-color: #BDB9B9;
+    padding: 15px;
+    margin: 30px;
+    border-radius: 10px;
+    font-family: "Kavoon", serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+main h1 {
+    text-align: center;
+    font-family: "kaushan script", cursive;
+    font-weight: 600;
+    font-style: normal;
+}
+
+main img{
+    width:250px;
+}
+
+main p {
+    font-family: "Josefin Slab", serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.title{
+font-family: "Luckiest Guy", cursive;
+  font-weight: 400;
+  font-style: normal;
+}
+
+ul {
+font-family: "Lusitana", serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+footer img {
+  width:25px;
+}
